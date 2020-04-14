@@ -45,7 +45,7 @@ const numbers = [3, 4, 5, 6, 7, 8];
 //     console.log(smaller);
 
 
-//Find:it only takes single value
+//Find:it only takes first single value
     const isThere = numbers.find(x => x > 5);    
     console.log(isThere);
 
